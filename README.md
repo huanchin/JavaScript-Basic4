@@ -1,4 +1,10 @@
 # JavaScript-Basic4
+This project contains:
+
+1. Set object
+2. Map object
+3. Coding Challenge
+
 
 Which data structure to use?
 
